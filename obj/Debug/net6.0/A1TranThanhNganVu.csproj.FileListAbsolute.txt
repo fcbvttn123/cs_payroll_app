@@ -1,0 +1,17 @@
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\bin\Debug\net6.0\A1TranThanhNganVu.exe
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\bin\Debug\net6.0\A1TranThanhNganVu.deps.json
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\bin\Debug\net6.0\A1TranThanhNganVu.runtimeconfig.json
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\bin\Debug\net6.0\A1TranThanhNganVu.dll
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\bin\Debug\net6.0\A1TranThanhNganVu.pdb
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.csproj.AssemblyReference.cache
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.AssemblyInfoInputs.cache
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.AssemblyInfo.cs
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.csproj.CoreCompileInputs.cache
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.dll
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\refint\A1TranThanhNganVu.dll
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.pdb
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.genruntimeconfig.cache
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\ref\A1TranThanhNganVu.dll
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\FCBVT\OneDrive\Desktop\Semester 4\C#\A1TranThanhNganVu\obj\Debug\net6.0\A1TranThanhNganVu.csproj.CopyComplete
